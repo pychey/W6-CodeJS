@@ -1,4 +1,4 @@
-let title = "Atomic Clock"
+let title = "The amazing atomic Clock"
 
 function Header() {
     return(
